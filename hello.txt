@@ -1,2 +1,4 @@
 Goodbye
 world
+
+say goodbye~
